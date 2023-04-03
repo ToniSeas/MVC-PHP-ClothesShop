@@ -14,4 +14,4 @@ This application was made in the year 2022 for a project of the course IF4101 (L
 
 ## Tech Stack
 
-PHP, Bootstrap, JQuery
+PHP, Bootstrap, JQuery, CSS
