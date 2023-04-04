@@ -1,7 +1,7 @@
 # MVC-PHP-ClothesShop
 
 ## About
-This application was made in the year 2022 for a project of the course IF4101 (Languages for Business Applications) of the University of Costa Rica.
+This website was made in the year 2022 for a project of the course IF4101 (Languages for Business Applications) of the University of Costa Rica.
 
 ## Documentation
 
