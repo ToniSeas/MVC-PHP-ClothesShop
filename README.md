@@ -6,7 +6,7 @@ This website was made in the year 2022 for a project of the course IF4101 (Langu
 ## Documentation
 
 * [General Information](https://github.com/ToniSeas/MVC-PHP-ClothesShop/wiki#general-information)
-* [Website Views](https://github.com/ToniSeas/MVC-PHP-ClothesShop/wiki#app-views)
+* [Website Views](https://github.com/ToniSeas/MVC-PHP-ClothesShop/wiki#website-views)
 * [Wiki](https://github.com/ToniSeas/MVC-PHP-ClothesShop/wiki)
 
 ## Author
