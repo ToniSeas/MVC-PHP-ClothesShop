@@ -6,7 +6,7 @@ This application was made in the year 2022 for a project of the course IF4101 (L
 ## Documentation
 
 * [General Information](https://github.com/ToniSeas/MVC-PHP-ClothesShop/wiki#general-information)
-* [App Views](https://github.com/ToniSeas/MVC-PHP-ClothesShop/wiki#app-views)
+* [Website Views](https://github.com/ToniSeas/MVC-PHP-ClothesShop/wiki#app-views)
 * [Wiki](https://github.com/ToniSeas/MVC-PHP-ClothesShop/wiki)
 
 ## Author
